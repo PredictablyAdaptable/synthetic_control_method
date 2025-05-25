@@ -5,7 +5,7 @@ rm(list = ls())
 user_name <- Sys.getenv("Username")
 
 # setwd
-setwd(paste0("C:/Users/", Sys.getenv("username"),"/OneWorkplace/Decisions Science - Documents/1. Business Growth/Clients/Compare the market/Geo-Test Nov 22"))
+setwd(paste0("C:/Users/", Sys.getenv("username"),"/Geo-Test Nov 22"))
 
 ## Load Libraries
 library(readxl)
